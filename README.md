@@ -1,3 +1,3 @@
-Paralel Pi Hesaplama Projesi
+## Paralel Pi Hesaplama
 
-Paralel pi hesaplama işlemi Kotlin programlama dili ile Coroutine yapıları kullanılarak Android Studio platformu üzerinde gerçekleştirilmiştir. 
+Pi saysının paralel bir şekilde hesaplanması üzerine olan bu çalışmada, hesaplama işlemi Kotlin programlama dili ile Coroutine yapıları kullanılarak Android Studio platformu üzerinde gerçekleştirilmiştir. 
